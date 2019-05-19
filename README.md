@@ -11,7 +11,10 @@ Featured Vendors include Thrive on Central Campus and Devil's Krafthouse (Brodhe
 
 ## Open Source
 
-Made with React JS
+Made with React JS 
+
+1. npm install 
+2. npm start
 
 Enjoy :)
 
