@@ -6,7 +6,7 @@
 
 ## About
 
-Built by 4 Duke Students  Tanvi Pabby (2021), Natalie Novitsky (2021), Victoria Lasarte (2021)and project manager, Cameron King (2020) 
+Built by 4 Duke Students  Tanvi Pabby (2021), Natalie Novitsky (2021), Victoria Lasarte (2021) and Project Manager Cameron King (2020). <br>
 Featured Vendors include Thrive on Central Campus and Devil's Krafthouse (Brodhead Center)
 
 ## Open Source
