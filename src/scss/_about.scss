@@ -1,0 +1,14 @@
+@import './_variables.scss';
+.about-section {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background: linear-gradient(to bottom, $black 0%,#{fade-out($black, .1)} 75%,#{fade-out($black, .2)} 100%);
+  p {
+    margin-bottom: 5rem;
+
+  }
+}

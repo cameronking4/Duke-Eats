@@ -1,0 +1,38 @@
+@import './_variables.scss';
+
+body{
+  text-align: center;
+}
+
+.btn {
+  box-shadow: .1875rem .1875rem .1875rem .1875rem rgba(0,0,0,.1) !important;
+  font-family: 'Varela Round';
+  font-size: 100%;
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  border: 0;
+  align-items: center;
+  color: red;
+
+}
+
+.custom{
+  width: 250px !important;
+  margin: 2% !important;
+  display: block;
+  font-size: 15px !important;
+}
+
+.btn-primary {
+  background-color: #fff;
+  &:hover {
+    background-color: darken($primary, 10%);
+  }
+  &:focus {
+    background-color: darken($primary, 10%);
+    color: white;
+  }
+  &:active {
+    background-color: darken($primary, 15%) !important;
+  }
+}

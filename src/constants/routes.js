@@ -1,0 +1,14 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const PASSWORD_FORGET = '/pw-forget';
+export const ORDER = '/order';
+export const DELIVER = '/deliver';
+export const THRIVE = '/thrive';
+export const CART = '/cart';
+export const CHECKOUT = '/checkout';
+export const DELIVERIES = '/deliveries';
+export const ORDERS = '/orders';
+export const KRAFTHOUSE = '/krafthouse';

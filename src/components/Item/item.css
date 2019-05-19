@@ -1,0 +1,14 @@
+.item {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #21295C;
+    background-color:#21295C;
+    background-size: 100px 100px;
+}
+  
+.item span {
+    font-size: 1em;
+    text-decoration: none;
+    color: white;
+
+}
